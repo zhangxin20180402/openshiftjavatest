@@ -1,2 +1,2 @@
 # openshiftjavatest
-This is java test for openshift
+This is simple java test project for openshift
