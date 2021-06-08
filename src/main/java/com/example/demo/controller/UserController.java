@@ -11,7 +11,7 @@ public class UserController {
 	@RequestMapping("/")
 	@ResponseBody
 	public String helloWorld() {
-		return "Hello";
+		return "Hello, openshift";
 	}
 
 }
